@@ -1,0 +1,1 @@
+Rename-ADObject -Identity “Comp01” -NewName “Comp01-Renamed”

@@ -1,0 +1,1 @@
+Remove-ADComputer -Identity “Comp01-Renamed”
