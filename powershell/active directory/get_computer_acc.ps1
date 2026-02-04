@@ -1,0 +1,1 @@
+Get-ADComputer -Filter * | Select-Object Name
