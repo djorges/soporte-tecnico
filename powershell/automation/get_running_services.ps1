@@ -1,1 +1,3 @@
-Get-Service | Where-Object { $_.Status -eq "Running" } | ForEach-Object {  $_.Name  }
+Get-Service `
+| Where-Object { $_.Status -eq "Running" } `
+| ForEach-Object {  $_.Name  }
