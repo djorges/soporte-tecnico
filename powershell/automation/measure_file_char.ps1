@@ -1,0 +1,1 @@
+Get-Content C:\Users\jorge\Downloads\hola.txt | Measure-Object -Character -Line -Word

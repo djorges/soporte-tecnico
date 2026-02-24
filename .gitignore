@@ -1,8 +1,3 @@
-powershell/theory/automation.ps1
-powershell/theory/functions.ps1
-powershell/theory/networking.ps1
-powershell/theory/other.ps1
-powershell/theory/variable.ps1
-powershell/other.ps1
-powershell/variable.ps1
-powershell/theory/ad.ps1
+powershell/theory
+cmd windows
+bash linux
